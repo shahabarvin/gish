@@ -3,7 +3,7 @@
 
 
 
-# Manual Installation Guide
+# Installation
 
 ## Prerequisites
 * Basic knowledge of the command-line interface (CLI).
@@ -28,3 +28,8 @@ To use gish, cd to your project and simply run gish. This will automatically sta
 `Auto-commit + Date + hour`, and push them to the remote repository if configured.
 If you want to add a custom commit message, follow gish with your desired commit message enclosed in double quotes. For example:
 ```gish "commit name"```
+
+
+# mannual installation
+
+Copy 'gish' to the location of your choice. Afterwards, add the folder path (e.g., 'C:\gish') to your system variables under the 'Path'. You can find the system variables path by searching for 'Environment Variables' in the Windows search bar, then selecting 'Edit the system environment variables' and clicking on 'Environment Variables'. In the 'System variables' section, find the 'Path' variable, click 'Edit', and then add the folder path.
