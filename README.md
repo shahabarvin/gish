@@ -2,12 +2,16 @@
 `gish` is a simple command-line tool designed to streamline common Git operations. It's a batch file that automates tasks like staging changes, committing with a customizable message, and pushing to a remote repository. This tool aims to enhance productivity for developers and Git users by simplifying Git workflows.
 
 
-# Manual Installation Guide
 
+# Manual Installation Guide
+[ ]
 ## Prerequisites
-Basic knowledge of the command-line interface (CLI).
+* Basic knowledge of the command-line interface (CLI).
+* Github installed
+
 
 ## Steps
+[ ]
 ### Download the Installer:
 Download the gish-v1.exe installer from the repository's releases page on GitHub.
 
