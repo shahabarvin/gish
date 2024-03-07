@@ -4,14 +4,14 @@
 
 
 # Manual Installation Guide
-[ ]
+
 ## Prerequisites
 * Basic knowledge of the command-line interface (CLI).
 * Github installed
 
 
 ## Steps
-[ ]
+
 ### Download the Installer:
 Download the gish-v1.exe installer from the repository's releases page on GitHub.
 
